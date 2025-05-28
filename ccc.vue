@@ -1,3 +1,13 @@
+<!--
+ * @Author: Lhaha019 2821445109@qq.com
+ * @Date: 2025-05-22 16:38:01
+ * @LastEditors: Lhaha019 2821445109@qq.com
+ * @LastEditTime: 2025-05-28 10:39:31
+ * @FilePath: \remote-test\ccc.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 <template>
 	<div class="right">
 		<div class="top-row">
@@ -11,7 +21,9 @@
 				<option value="WD">稳定历史变形破坏区</option>
 				<option value="FH">复活历史变形破坏区</option>
 			</select>
-			<span class="select-arrow"></span>
+			<span class="selectds-arrow"></span>
 		</div>
 	</div>
 </template>
+<script>
+</script>
