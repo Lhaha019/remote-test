@@ -14,7 +14,7 @@
 			<span>风险选择</span>
 		</div>
 		<div class="custom-select">
-			<select >
+			<select>
 				<option value="ALL">全部</option>
 				<option value="BC">冰川冰湖</option>
 				<option value="XP">斜坡变形区</option>
@@ -23,7 +23,7 @@
 			</select>
 			<span class="selectds-arrow"></span>
 			<div>测试换行</div>
-      <div>测试空格</div>
+			<div>测试空格</div>
 		</div>
 	</div>
 	<div>1111</div>
