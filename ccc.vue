@@ -23,6 +23,7 @@
 			</select>
 			<span class="selectds-arrow"></span>
 			<div>测试换行</div>
+      <div>测试空格</div>
 		</div>
 	</div>
 	<div>1111</div>
