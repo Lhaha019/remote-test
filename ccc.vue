@@ -9,24 +9,25 @@
  * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
 -->
 <template>
-	<div class="right">
-		<div class="top-row">
-			<span>风险选择</span>
-		</div>
-		<div class="custom-select">
-			<select>
-				<option value="ALL">全部</option>
-				<option value="BC">冰川冰湖</option>
-				<option value="XP">斜坡变形区</option>
-				<option value="WD">稳定历史变形破坏区</option>
-				<option value="FH">复活历史变形破坏区</option>
-			</select>
-			<span class="selectds-arrow"></span>
-			<div>测试换行</div>
-			<div>测试空格</div>
-		</div>
-	</div>
-	<div>1111</div>
+  <div class="right">
+    <div class="top-row">
+      <span>风险选择</span>
+    </div>
+    <div class="custom-select">
+      <select>
+        <option value="ALL">全部</option>
+        <option value="BC">冰川冰湖</option>
+        <option value="">修改设置后</option>
+        <option value="XP">斜坡变形区</option>
+        <option value="WD">稳定历史变形破坏区</option>
+        <option value="FH">复活历史变形破坏区</option>
+      </select>
+      <span class="selectds-arrow"></span>
+      <div>测试换行</div>
+      <div>测试空格</div>
+    </div>
+  </div>
+  <div>1111</div>
 </template>
 <script>
 </script>
